@@ -161,7 +161,7 @@ Building scalable backend systems, solving DSA, and learning system design.
 
 <p>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/tanya-gupta-106853172">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
