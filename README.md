@@ -135,17 +135,6 @@ Building scalable backend systems, solving DSA, and learning system design.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TanyaGupta1010&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaGupta1010&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -167,15 +156,6 @@ Building scalable backend systems, solving DSA, and learning system design.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TanyaGupta1010&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
