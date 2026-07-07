@@ -14,9 +14,9 @@ Building scalable backend systems, solving DSA, and learning system design.
 <img src="https://img.shields.io/badge/LeetCode-350+-orange?logo=leetcode"/>
 </a>
 
-<a href="https://github.com/TanyaGupta1010?tab=followers">
+<!-- <a href="https://github.com/TanyaGupta1010?tab=followers">
 <img src="https://img.shields.io/github/followers/TanyaGupta1010?label=Followers&style=social"/>
-</a>
+</a> -->
 
 </p>
 
@@ -25,21 +25,13 @@ Building scalable backend systems, solving DSA, and learning system design.
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE (Cloud Computing), Bennett University
-- ⭐ CGPA: **9.46/10**
 - 💻 Interested in
   - Distributed Systems
   - Backend Engineering
   - System Design
   - Cloud Computing
   - Performance Optimization
-- 🌱 Currently learning
-  - Spring Boot
-  - Redis
-  - Docker
-  - Kubernetes
-  - AWS
 - 🧩 Solved **350+ LeetCode problems**
-- 🎯 Goal: Software Engineering Internship 2027
 
 ---
 
