@@ -10,9 +10,13 @@ Building scalable backend systems, solving DSA, and learning system design.
 <img src="https://komarev.com/ghpvc/?username=TanyaGupta1010&label=Profile%20Views&color=0e75b6&style=flat" />
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-350+-orange?logo=leetcode"/>
-</a>
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/Tanya_gupta1010/">
+    <img width="420" src="https://leetcard.jacoblin.cool/Tanya_gupta1010?theme=dark&font=Nunito&ext=heatmap"/>
+  </a>
+</p>
 
 <!-- <a href="https://github.com/TanyaGupta1010?tab=followers">
 <img src="https://img.shields.io/github/followers/TanyaGupta1010?label=Followers&style=social"/>
