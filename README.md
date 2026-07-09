@@ -142,7 +142,7 @@ Building scalable backend systems, solving DSA, and learning system design.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=TanyaGupta1010&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=TanyaGupta1010&theme=tokyonight&hide_border=true&cache_seconds=3600" />
 
 </p>
 
@@ -152,7 +152,7 @@ Building scalable backend systems, solving DSA, and learning system design.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanyaGupta1010&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanyaGupta1010&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true"/>
 
 </p>
 
