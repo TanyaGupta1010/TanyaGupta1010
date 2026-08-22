@@ -5,10 +5,10 @@
 Building scalable backend systems, solving DSA, and learning system design.
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/TanyaGupta1010">
 <img src="https://komarev.com/ghpvc/?username=TanyaGupta1010&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
+</a> -->
 
 ## 🧩 LeetCode Stats
 
