@@ -35,7 +35,7 @@ Building scalable backend systems, solving DSA, and learning system design.
   - System Design
   - Cloud Computing
   - Performance Optimization
-- 🧩 Solved **350+ LeetCode problems**
+- 🧩 Solved **400+ LeetCode problems**
 
 ---
 
