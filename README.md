@@ -3,7 +3,7 @@
 
 <p align="center">
 Building scalable backend systems, solving DSA, and learning system design.
-</p>.  
+</p>
 
 <!-- <p align="center">
 <a href="https://github.com/TanyaGupta1010">
