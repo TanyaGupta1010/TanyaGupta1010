@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | C++ • Java • Distributed Systems • Cloud</h3>
 
 <p align="center">
-Building scalable backend systems, solving DSA, and learning system design.
+Building scalable backend systems, solving DSA, and learning system design.   
 </p>
 
 <!-- <p align="center">
