@@ -14,7 +14,7 @@ Building scalable backend systems, solving DSA, and learning system design.
 
 <p align="center">
   <a href="https://leetcode.com/u/tanyag_5/">
-    <img width="420" src="https://leetcard.jacoblin.cool/Tanya_gupta1010?theme=dark&font=Nunito&ext=heatmap"/>
+    <img width="420" src="https://leetcard.jacoblin.cool/tanyag_5?theme=dark&font=Nunito&ext=heatmap"/>
   </a>
 </p>
 
